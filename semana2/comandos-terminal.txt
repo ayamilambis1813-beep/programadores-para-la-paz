@@ -1,0 +1,7 @@
+cd
+dir
+mkdir semana2
+cd semana2
+type nul > preguntas-semana2.txt
+type nul > comandos-terminal.txt
+type nul > reflexion-semana2.txt
