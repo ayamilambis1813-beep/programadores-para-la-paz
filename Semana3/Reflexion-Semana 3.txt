@@ -1,0 +1,9 @@
+Al aprender sobre Git, me di cuenta de que mantener un registro de cambios es muy importante en los proyectos de software. Al principio pensé que solo servía para guardar archivos, pero entendí que también permite llevar un control de todo lo que se va haciendo en el proyecto.
+
+Considero que una de las mayores ventajas es poder ver los cambios realizados a lo largo del tiempo. Esto ayuda a entender mejor el trabajo realizado y a identificar errores cuando algo deja de funcionar correctamente.
+
+También me parece útil porque permite recuperar versiones anteriores del proyecto. De esta manera, si se comete un error o se elimina algo importante por accidente, existe la posibilidad de volver a un estado anterior sin perder todo el avance.
+
+Otro aspecto importante es el trabajo en equipo. Cuando varias personas participan en un mismo proyecto, Git ayuda a organizar los cambios de cada integrante y facilita la colaboración entre todos.
+
+Aunque todavía estoy comenzando a aprender estos conceptos, considero que usar herramientas como Git es una buena práctica porque aporta orden, seguridad y un mejor control sobre el desarrollo de un proyecto de software.
