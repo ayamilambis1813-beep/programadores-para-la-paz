@@ -1,0 +1,18 @@
+Solicitud POST a http://localhost:3000/registro
+
+Request JSON:
+{
+  "nombre": "Karin",
+  "mensaje": "Hola comunidad"
+}
+
+Respuesta del servidor (JSON):
+{
+  "estado": "Datos recibidos",
+  "nombre": "Karin",
+  "mensaje": "Hola comunidad"
+}
+
+Instrucciones rápidas:
+- Levanta el servidor: `node semana6/server.js`
+- Envía la petición con Postman o Thunder Client a la URL arriba indicada.

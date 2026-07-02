@@ -1,0 +1,10 @@
+Ejemplo de JSON para reportar una incidencia (POST http://localhost:3000/incidencia)
+
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+Instrucciones rápidas:
+- Levanta el servidor: `node semana6/server.js`
+- Envía la petición POST a `http://localhost:3000/incidencia` con el JSON arriba.

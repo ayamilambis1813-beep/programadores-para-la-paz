@@ -1,0 +1,27 @@
+Prueba de Reportes - GET /reportes
+
+¿Qué sucede cuando consultas los reportes?
+
+Cuando realizas una solicitud GET a http://localhost:3000/reportes, el servidor retorna un array JSON con todos los reportes que han sido registrados en la sesión actual.
+
+En este ejemplo, se envió un primer reporte con:
+- tipo: "Infraestructura"
+- descripcion: "Daño en alumbrado público"
+
+Al consultar GET /reportes, la respuesta es:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Explicación:
+- Cada reporte recibe un ID único que se incrementa automáticamente (reportes.length + 1)
+- Los reportes se almacenan en la variable "reportes" que es un array en memoria
+- La respuesta es un array JSON que contiene todos los reportes registrados
+- Si no hay reportes, la respuesta es un array vacío []
+- Los datos se mantienen en memoria mientras el servidor esté ejecutándose
+- Si el servidor se reinicia, los datos se pierden (almacenamiento en memoria temporal)

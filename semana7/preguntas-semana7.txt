@@ -1,0 +1,52 @@
+PREGUNTAS - SEMANA 7
+
+Pregunta 1
+¿Qué es un array en programación?
+
+A. Un tipo de base de datos
+B. Una estructura que permite almacenar varios datos en una lista
+C. Un servidor web
+D. Un archivo del sistema
+
+Respuesta: B
+
+Explicación: Un array es una estructura de datos fundamental que permite almacenar múltiples valores en una sola variable, organizados en una lista. En nuestro servidor, usamos un array llamado "reportes" para guardar todos los reportes registrados.
+
+
+Pregunta 2
+¿Qué método HTTP se utiliza normalmente para consultar datos existentes?
+
+A. POST
+B. GET
+C. DELETE
+D. START
+
+Respuesta: B
+
+Explicación: GET es el método HTTP utilizado para solicitar información del servidor sin modificar datos. En nuestro servidor, usamos GET en la ruta /reportes para obtener la lista completa de reportes almacenados.
+
+
+Pregunta 3
+¿Qué método HTTP se usa normalmente para agregar información nueva?
+
+A. GET
+B. POST
+C. READ
+D. OPEN
+
+Respuesta: B
+
+Explicación: POST es el método HTTP utilizado para enviar datos nuevos al servidor. En nuestro servidor, usamos POST en la ruta /reportes para registrar nuevos reportes ciudadanos en el array.
+
+
+Pregunta 4
+¿Cuál es el propósito de una API en una aplicación?
+
+A. Mostrar imágenes
+B. Permitir que diferentes sistemas o aplicaciones intercambien información
+C. Instalar programas
+D. Ejecutar el sistema operativo
+
+Respuesta: B
+
+Explicación: Una API (Application Programming Interface) es un conjunto de reglas que permite que diferentes aplicaciones se comuniquen y compartan información entre sí. Nuestro servidor Express actúa como una API que recibe reportes y los almacena, permitiendo que aplicaciones cliente accedan a esa información.
