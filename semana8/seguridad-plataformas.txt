@@ -1,0 +1,5 @@
+1. Activar la autenticación de dos factores (2FA).
+2. Mantener el software y las aplicaciones actualizadas.
+3. Realizar copias de seguridad periódicas de la información.
+4. Utilizar contraseñas fuertes y cambiarlas regularmente.
+5. Verificar la identidad de los usuarios antes de otorgar permisos.
