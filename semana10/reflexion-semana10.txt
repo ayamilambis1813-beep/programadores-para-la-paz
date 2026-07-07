@@ -1,0 +1,15 @@
+Las metodologías ágiles ayudan a organizar el trabajo de manera clara y ordenada.
+Permiten dividir los proyectos en tareas pequeñas y fáciles de gestionar.
+También facilitan la colaboración entre los miembros del equipo.
+Con reuniones y revisiones frecuentes, es posible detectar problemas rápidamente.
+La automatización reduce el tiempo dedicado a tareas repetitivas.
+Además, disminuye los errores al ejecutar procesos de forma automática.
+Herramientas como n8n permiten conectar diferentes aplicaciones sin complicaciones.
+Esto hace que la información fluya de manera más rápida y eficiente.
+Telegram es un canal útil para enviar notificaciones en tiempo real.
+Los responsables pueden enterarse de nuevos reportes sin revisar constantemente el sistema.
+Así se mejora el tiempo de respuesta ante las necesidades de la comunidad.
+Estas herramientas favorecen una mejor comunicación entre ciudadanos y coordinadores.
+También permiten dar seguimiento a las solicitudes de forma organizada.
+Como resultado, aumenta la transparencia y la participación de la comunidad.
+En conjunto, las metodologías ágiles, la automatización y Telegram contribuyen a crear procesos más eficientes, colaborativos y confiables.

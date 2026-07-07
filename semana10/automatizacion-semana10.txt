@@ -1,0 +1,7 @@
+Evento: Un ciudadano registra una nueva incidencia en la plataforma de veeduría.
+
+Acción: n8n detecta el nuevo registro y envía automáticamente una notificación a un grupo de Telegram del equipo encargado.
+
+Mensaje: "Se ha recibido un nuevo reporte comunitario. Ingresa al sistema para revisarlo y asignarle seguimiento."
+
+Información que no debe enviarse: Datos personales como nombres completos, números de documento, direcciones, teléfonos, correos electrónicos, contraseñas o cualquier otra información sensible del ciudadano.
