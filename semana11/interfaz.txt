@@ -1,0 +1,9 @@
+La plataforma tendría una interfaz sencilla y fácil de usar para que cualquier persona pueda participar.
+
+En la parte superior habría un formulario con los campos Título, Descripción y un botón "Crear causa". Al enviarlo, la causa se agregaría a la lista de publicaciones.
+
+Debajo del formulario se mostraría un listado de todas las causas creadas. Cada una aparecería en una tarjeta con el título, la descripción y la fecha de publicación.
+
+Cada tarjeta tendría un botón "Apoyar". Al hacer clic, el sistema registraría el apoyo del usuario a esa causa.
+
+Junto al botón "Apoyar" se mostraría un contador con el número de apoyos recibidos, el cual se actualizaría cada vez que una persona apoye la causa. Esto permitirá conocer cuáles iniciativas tienen mayor participación de la comunidad.

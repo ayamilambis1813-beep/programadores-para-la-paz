@@ -1,0 +1,26 @@
+Entidad: Usuario
+
+Campos principales:
+
+id
+nombre
+correo
+contraseña
+fecha_registro
+
+Propósito:
+Guardar la información de las personas registradas en la plataforma para que puedan participar en las actividades comunitarias.
+
+Entidad: Evento
+
+Campos principales:
+
+id
+titulo
+descripcion
+lugar
+fecha
+usuario_id
+
+Propósito:
+Registrar los eventos organizados por la comunidad, indicando quién los creó, dónde se realizarán y cuándo tendrán lugar.
