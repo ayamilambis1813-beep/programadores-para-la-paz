@@ -1,0 +1,5 @@
+Evento: Una petición alcanza la cantidad mínima de apoyos para ser presentada oficialmente.
+
+Mensaje: “La petición ‘Mejoramiento del parque del barrio’ ya cuenta con el número de apoyos requerido y está lista para generar el documento correspondiente.”
+
+Información que no debe enviarse por seguridad: Números de identificación, correos electrónicos, direcciones, teléfonos, contraseñas ni cualquier otro dato personal o sensible de los participantes.

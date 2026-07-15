@@ -1,0 +1,12 @@
+Entidad: Petición
+id
+asunto
+detalle
+estado
+fecha_creacion
+
+Entidad: Participante
+id
+nombre
+correo
+fecha_registro

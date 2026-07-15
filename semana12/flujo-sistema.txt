@@ -1,0 +1,6 @@
+1. El ciudadano ingresa a la plataforma e inicia sesión o accede al formulario de participación.
+2. Completa la información de la petición, como el título, la descripción y la categoría, y envía el formulario.
+3. El sistema verifica que los datos estén completos y guarda la petición en la base de datos.
+4. Los miembros de la comunidad consultan las peticiones disponibles y seleccionan la que desean respaldar.
+5. Cada nuevo apoyo queda registrado automáticamente y el sistema actualiza el estado de la petición.
+6. Cuando la petición alcanza la cantidad de apoyos requerida, la plataforma genera un documento PDF con toda la información recopilada para que pueda ser compartido o presentado ante la entidad correspondiente.
